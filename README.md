@@ -18,6 +18,7 @@ I'm a person who is interested in the world of computers and AI & Data Science. 
 - Data analysis and visualization: Pandas, Matplotlib 📊
 - Database management: SQL 🛢️
 - Web development: HTML 🌐
+- Chat GPT 🤖💬
 
 ## Interests
 - 💻 Artificial Intelligence.
